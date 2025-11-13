@@ -1,0 +1,18 @@
+EJ1
+ 1- mkdir Examen/{1,2,3}
+ 2- cd Examen
+ 3- touch {1,2,3}/.gitignore
+EJ2
+ 1- cd ..
+ 2- touch 1/nombre.txt
+EJ3
+ 1- cd 2
+ 2- cp ../1/nombre.txt ../3
+ 3- cd ../../..
+ 4- git clone https://github.com/ruotga/OteroGitComandos OteroClonado
+ 5- cd OteroGitComandos
+ 6- echo "Cullera" >> readme.md
+EJ4
+ 1-
+
+ Cullera
